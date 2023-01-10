@@ -4,7 +4,7 @@
 
 Eu sou um Desenvolvedor Web Full Stack. Codo desde 2014 e sou apaixonado por programação. Entrei na área através curso **Técnico de Informática** e sou graduado em **Análise e Desenvolvimento de Sistemas**.
 
-- 📚 Atualmente estou estudando afundo o ReactJs;
+- 📚 Atualmente estou estudando a fundo o ReactJs <img src="./icons/react.svg" alt="React" width="16"/>;
 - 🤖 Fiz um robô lutador de sumô na faculdade;
 - 📬 Meu linkedIn é [soaresrodrigo](https://www.linkedin.com/in/soaresrodrigo/), igual meu github;
 - 🚴🏿‍♂️ Nas horas livres, eu gosto de andar de bicicleta pela beira da praia;
