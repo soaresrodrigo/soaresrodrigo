@@ -1,13 +1,13 @@
 <img align="right" src="./icons/avatar.svg" alt="Illustration of Rodrigo in the office" width=480px height=400px/>
 
-### Hi, I'm Rodrigo 👋
+### **Oi, me chamo Rodrigo** 👋
 
-Eu sou um full stack developer. Codando desde 2014, sou apaixonado por programação. Entrei na área através curso **Técnico de Informática** e sou graduado em **Análise e Desenvolvimento de Sistemas**.
+Eu sou um Desenvolvedor Web Full Stack. Codo desde 2014 e sou apaixonado por programação. Entrei na área através curso **Técnico de Informática** e sou graduado em **Análise e Desenvolvimento de Sistemas**.
 
 - 📚 Atualmente estou estudando afundo o ReactJs;
 - 🤖 Fiz um robô lutador de sumô na faculdade;
 - 📬 Meu linkedIn é [soaresrodrigo](https://www.linkedin.com/in/soaresrodrigo/), igual meu github;
-- 🚴🏿‍♂️ Gosto de andar de bicicleta pela beira da praia;
+- 🚴🏿‍♂️ Nas horas livres, eu gosto de andar de bicicleta pela beira da praia;
 <br />
 <br />
 <br />
