@@ -13,10 +13,6 @@ Eu sou um full stack developer. Codando desde 2014, sou apaixonado por programa√
 <br />
 <br />
 <br />
-<br />
-<br />
-<br />
-<br />
 
 <p float="left">
     <img src="./icons/react.svg" alt="React" width="64"/>
@@ -35,4 +31,5 @@ Eu sou um full stack developer. Codando desde 2014, sou apaixonado por programa√
     <img src="./icons/docker.svg" alt="docker" width="64" title="docker"/>
     <img src="./icons/git.svg" alt="git" width="64" title="git"/>
     <img src="./icons/linux.svg" alt="linux" width="64" title="linux"/>
+    <img src="./icons/node.svg" alt="node" width="64" title="node"/>
 </p>
