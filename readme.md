@@ -1,13 +1,14 @@
 <img align="right" src="./icons/avatar.svg" alt="Illustration of Rodrigo in the office" width=480px height=400px/>
 
-### **Oi, me chamo Rodrigo** 👋
+### **Hi, I'm Rodrigo** 👋
 
-Eu sou um Desenvolvedor Web Full Stack. Codo desde 2014 e sou apaixonado por programação. Entrei na área através curso **Técnico de Informática** e sou graduado em **Análise e Desenvolvimento de Sistemas**.
+I'm a Full Stack Web Developer. I've been coding since 2014 and I'm passionate about programming. I entered the area through a **Computer Technician** course and I have a degree in **Systems Analysis and Development**.
 
-- 📚 Atualmente estou estudando a fundo o ReactJs <img src="./icons/react.svg" alt="React" width="16"/>;
-- 🤖 Fiz um robô lutador de sumô na faculdade;
-- 📬 Meu linkedIn é [soaresrodrigo](https://www.linkedin.com/in/soaresrodrigo/), igual meu github;
-- 🚴🏿‍♂️ Nas horas livres, eu gosto de andar de bicicleta pela beira da praia;
+- 📚 I'm currently studying React.Js<img src="./icons/react.svg" alt="React" width="16"/> in depth ;
+- 🤖 I made a robot sumo wrestler in college;
+- 📬 My linkedIn is [soaresrodrigo](https://www.linkedin.com/in/soaresrodrigo/), liky my github;
+- 🚴🏿‍♂️ In my free time, I like to ride my bike along the beach;
+
 <br />
 <br />
 <br />
