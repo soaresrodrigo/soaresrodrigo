@@ -6,7 +6,7 @@ I'm a Full Stack Web Developer. I've been coding since 2014 and I'm passionate a
 
 - 📚 I'm currently studying React.Js<img src="./icons/react.svg" alt="React" width="16"/> in depth ;
 - 🤖 I made a robot sumo wrestler in college;
-- 📬 My linkedIn is [soaresrodrigo](https://www.linkedin.com/in/soaresrodrigo/), liky my github;
+- 📬 My linkedIn is [soaresrodrigo](https://www.linkedin.com/in/soaresrodrigo/), like my github;
 - 🚴🏿‍♂️ In my free time, I like to ride my bike along the beach;
 
 <br />
